@@ -1,3 +1,3 @@
-# Simple-E-Commerce-Website
+# E-Commerce-Website
 
 this is my first projrct
